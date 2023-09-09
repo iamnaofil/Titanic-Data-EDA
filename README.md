@@ -1,5 +1,24 @@
 # Titanic-Data-EDA
 Titanic Dataset Exploratory Data Analysis (EDA) Project
+
+
+
+
+
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%; text-align: center;"><img src="PClass.png" alt="Image 1" style="max-width: 100%;"></td>
+    <td style="width: 50%; text-align: center;"><img src="Sex.png" alt="Image 2" style="max-width: 100%;"></td>
+    <td style="width: 50%; text-align: center;"><img src="Sex2.png" alt="Image 2" style="max-width: 100%;"></td>
+    <td style="width: 50%; text-align: center;"><img src="5.png" alt="Image 2" style="max-width: 100%;"></td>
+    <td style="width: 50%; text-align: center;"><img src="Age.png" alt="Image 2" style="max-width: 100%;"></td>
+    <td style="width: 50%; text-align: center;"><img src="StationEmbarked.png" alt="Image 2" style="max-width: 100%;"></td>
+    
+    
+  </tr>
+</table
+
+
 # Overview
 
 This GitHub repository contains an Exploratory Data Analysis (EDA) project on the Titanic dataset. The project aims to understand, interpret, and analyze various aspects of the dataset, including its columns, univariate and bivariate analyses, and key insights derived from the data.
