@@ -6,6 +6,10 @@ This GitHub repository contains an Exploratory Data Analysis (EDA) project on th
 
 In this Exploratory Data Analysis (EDA) project, we delved into the Titanic dataset to gain insights into the tragic events surrounding the sinking of the Titanic. Through a thorough examination of the dataset columns, univariate analysis, bivariate analysis, and feature engineering, we uncovered several key findings that shed light on the passengers and their experiences on that ill-fated voyage
 
+**Insights and Impact:**
+
+Our analysis paints a vivid picture of life on the Titanic. From the youngest to the oldest, from the affluent to the less fortunate, our data-driven storytelling uncovers stories of courage, sacrifice, and survival.
+
 **Dataset Columns:**
 
 You have explored various columns in the dataset, including Age, Fare, Survived, Pclass, Sex, SibSp, and Parch
