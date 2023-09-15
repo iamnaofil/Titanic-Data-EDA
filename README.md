@@ -9,7 +9,6 @@ Titanic Dataset Exploratory Data Analysis (EDA) Project
   <tr>
     <td style="width: 50%; text-align: center;"><img src="PClass.png" alt="Image 1" style="max-width: 100%;"></td>
     <td style="width: 50%; text-align: center;"><img src="Sex.png" alt="Image 2" style="max-width: 100%;"></td>
-    <td style="width: 50%; text-align: center;"><img src="Sex2.png" alt="Image 2" style="max-width: 100%;"></td>
     <td style="width: 50%; text-align: center;"><img src="5.png" alt="Image 2" style="max-width: 100%;"></td>
     <td style="width: 50%; text-align: center;"><img src="Age.png" alt="Image 2" style="max-width: 100%;"></td>
     <td style="width: 50%; text-align: center;"><img src="StationEmbarked.png" alt="Image 2" style="max-width: 100%;"></td>
